@@ -1,0 +1,14 @@
+<svg id="chess-table" width="480" height="480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+
+    <pattern id="Pattern" x="0" y="0" width="0.25" height="0.25">
+      <rect x="0" y="0" width="60" height="60" fill="rgb(237,220,173)"/>
+      <rect x="60" y="0" width="60" height="60" fill="rgb(179,138,91)"/>
+      <rect x="0" y="60" width="60" height="60" fill="rgb(179,138,91)"/>
+      <rect x="60" y="60" width="60" height="60" fill="rgb(237,220,173)"/>
+    </pattern>
+
+  </defs>
+
+  <rect fill="url(#Pattern)"  width="480" height="480"/>
+</svg>

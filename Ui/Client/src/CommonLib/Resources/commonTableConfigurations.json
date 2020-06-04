@@ -1,0 +1,41 @@
+{
+    "configurations": {
+        "standard": [
+            {"figure": "rook", 	    "color": "white", "row": "1", "column": "A"},
+            {"figure": "knight", 	"color": "white", "row": "1", "column": "B"},
+            {"figure": "bishop", 	"color": "white", "row": "1", "column": "C"},
+            {"figure": "queen", 	"color": "white", "row": "1", "column": "D"},
+            {"figure": "king", 	    "color": "white", "row": "1", "column": "E"},
+            {"figure": "bishop", 	"color": "white", "row": "1", "column": "F"},
+            {"figure": "knight", 	"color": "white", "row": "1", "column": "G"},
+            {"figure": "rook", 	    "color": "white", "row": "1", "column": "H"},
+
+            {"figure": "pawn", 	    "color": "white", "row": "2", "column": "A"},
+            {"figure": "pawn", 	    "color": "white", "row": "2", "column": "B"},
+            {"figure": "pawn", 	    "color": "white", "row": "2", "column": "C"},
+            {"figure": "pawn", 	    "color": "white", "row": "2", "column": "D"},
+            {"figure": "pawn",  	"color": "white", "row": "2", "column": "E"},
+            {"figure": "pawn",  	"color": "white", "row": "2", "column": "F"},
+            {"figure": "pawn",  	"color": "white", "row": "2", "column": "G"},
+            {"figure": "pawn",  	"color": "white", "row": "2", "column": "H"},
+
+            {"figure": "rook", 	    "color": "black", "row": "8", "column": "A"},
+            {"figure": "knight", 	"color": "black", "row": "8", "column": "B"},
+            {"figure": "bishop", 	"color": "black", "row": "8", "column": "C"},
+            {"figure": "queen", 	"color": "black", "row": "8", "column": "D"},
+            {"figure": "king", 	    "color": "black", "row": "8", "column": "E"},
+            {"figure": "bishop", 	"color": "black", "row": "8", "column": "F"},
+            {"figure": "knight", 	"color": "black", "row": "8", "column": "G"},
+            {"figure": "rook", 	    "color": "black", "row": "8", "column": "H"},
+
+            {"figure": "pawn",  	"color": "black", "row": "7", "column": "A"},
+            {"figure": "pawn",  	"color": "black", "row": "7", "column": "B"},
+            {"figure": "pawn",  	"color": "black", "row": "7", "column": "C"},
+            {"figure": "pawn",      "color": "black", "row": "7", "column": "D"},
+            {"figure": "pawn", 	    "color": "black", "row": "7", "column": "E"},
+            {"figure": "pawn",  	"color": "black", "row": "7", "column": "F"},
+            {"figure": "pawn", 	    "color": "black", "row": "7", "column": "G"},
+            {"figure": "pawn",  	"color": "black", "row": "7", "column": "H"}
+        ]
+    }
+}
